@@ -73,7 +73,13 @@
 
 ### 💻 Stats
 
-<a href="https://github.com/liangyile527" target="_blank"><img src="https://github-immortality.vercel.app/api?username=liangyile527" alt="GitHub Immortality" style="width: 100%;" /></a>
+<p align="center">
+  <a href="https://github.com/liangyile527" target="_blank"><img src="https://github-immortality.vercel.app/api?username=liangyile527" alt="GitHub 修仙传" width="500" /></a>
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 活动 3D 贡献图" width="100%">
+</p>
 
 <details open>
 <summary>点击展开 ...</summary>
